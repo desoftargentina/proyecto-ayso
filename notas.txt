@@ -1,0 +1,5 @@
+Materia: Matematica | Geografia | Ciencias | Quimica
+Luis perez: 6.0, 7.0, 9.0, 6.0 | Promedio: 7.00
+Caren torres: 8.0, 9.0, 7.0, 9.0 | Promedio: 8.25
+Tato Perez: 8.0, 4.0, 6.0, 2.0 | Promedio: 5.00
+Luis majul: 6.0, 8.0, 2.0, 6.0 | Promedio: 5.50
